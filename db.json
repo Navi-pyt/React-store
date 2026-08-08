@@ -1,49 +1,49 @@
 {
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Breed Dry Dog Food",
       "price": 100,
       "imageUrl": "./src/assets/images/products/dog-food.svg"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "CANON EOS DSLR Camera",
       "price": 360,
       "imageUrl": "./src/assets/images/products/camera.svg"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "ASUS FHD Gaming Laptop",
       "price": 700,
       "imageUrl": "./src/assets/images/products/laptop.svg"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Curology Product Set ",
       "price": 500,
       "imageUrl": "./src/assets/images/products/curoset.svg"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Kids Electric Car",
       "price": 960,
       "imageUrl": "./src/assets/images/products/car.svg"
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Jr. Zoom Soccer Cleats",
       "price": 1160,
       "imageUrl": "./src/assets/images/products/soccer.svg"
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "GP11 Shooter USB Gamepad",
       "price": 660,
       "imageUrl": "./src/assets/images/products/gamepad.svg"
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Quilted Satin Jacket",
       "price": 660,
       "imageUrl": "./src/assets/images/products/jacket.svg"
@@ -51,52 +51,52 @@
   ],
   "cart": [
     {
-      "id": "50ef",
-      "productId": 1,
+      "id": "6e6e",
+      "productId": "1",
       "name": "Breed Dry Dog Food",
       "price": 100,
       "imageUrl": "./src/assets/images/products/dog-food.svg",
-      "quantity": 1
+      "quantity": 17
     },
     {
-      "id": "78e6",
-      "productId": 2,
+      "id": "dfaa",
+      "productId": "2",
       "name": "CANON EOS DSLR Camera",
       "price": 360,
       "imageUrl": "./src/assets/images/products/camera.svg",
       "quantity": 3
     },
     {
-      "id": "49c6",
-      "productId": 5,
-      "name": "Kids Electric Car",
-      "price": 960,
-      "imageUrl": "./src/assets/images/products/car.svg",
-      "quantity": 1
-    },
-    {
-      "id": "baaa",
-      "productId": 6,
-      "name": "Jr. Zoom Soccer Cleats",
-      "price": 1160,
-      "imageUrl": "./src/assets/images/products/soccer.svg",
-      "quantity": 1
-    },
-    {
-      "id": "1a96",
-      "productId": 4,
-      "name": "Curology Product Set ",
-      "price": 500,
-      "imageUrl": "./src/assets/images/products/curoset.svg",
-      "quantity": 1
-    },
-    {
-      "id": "b931",
-      "productId": 3,
+      "id": "114a",
+      "productId": "3",
       "name": "ASUS FHD Gaming Laptop",
       "price": 700,
       "imageUrl": "./src/assets/images/products/laptop.svg",
-      "quantity": 1
+      "quantity": 3
+    },
+    {
+      "id": "26e3",
+      "productId": "6",
+      "name": "Jr. Zoom Soccer Cleats",
+      "price": 1160,
+      "imageUrl": "./src/assets/images/products/soccer.svg",
+      "quantity": 2
+    },
+    {
+      "id": "4744",
+      "productId": "8",
+      "name": "Quilted Satin Jacket",
+      "price": 660,
+      "imageUrl": "./src/assets/images/products/jacket.svg",
+      "quantity": 2
+    },
+    {
+      "id": "3fff",
+      "productId": "7",
+      "name": "GP11 Shooter USB Gamepad",
+      "price": 660,
+      "imageUrl": "./src/assets/images/products/gamepad.svg",
+      "quantity": 4
     }
   ]
 }
