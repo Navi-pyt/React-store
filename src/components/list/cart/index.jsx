@@ -9,7 +9,7 @@ const CartList = () => {
 	if (error) return <p>Ошибка: {error}</p>
 
 	if (cart.length === 0) {
-		return <p className={styles.empty}>Ваша корзина пуста</p>
+		return <p className={styles.empty}>Ваша корзина сейчас пуста</p>
 	}
 
 	return (

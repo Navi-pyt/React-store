@@ -1,12 +1,14 @@
 import styles from './index.module.scss'
 import WishIcon from '../../../assets/icons/wish.svg'
-import { useCart } from '../../../hooks/useCart'
+// import { useCart } from '../../../hooks/useCart'
+import { useCart } from '../../../context/CartContext.jsx'
 
 const ProductCard = ({ id, name, price, imageUrl }) => {
 	const { addToCart } = useCart()
 
 	const handleAdd = () => {
 		addToCart({ id, name, price, imageUrl })
+		console.log('click')
 	}
 
 	return (
